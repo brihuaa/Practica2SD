@@ -30,10 +30,6 @@ Este proyecto es una aplicación de cálculo distribuido utilizando Java RMI (Re
 1. Navega al directorio del proyecto.
 2. Ejecuta el cliente con el siguiente comando:
    ```sh
-   java Servidor
-   ```
-3. Ejecuta el cliente con el siguiente comando:
-   ```sh
    java Cliente
    ```
 
